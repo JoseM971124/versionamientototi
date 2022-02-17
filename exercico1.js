@@ -67,7 +67,7 @@ function encriptar(palavra){
             let palavra = prompt("Escreva uma palavra");
             alert(desencriptar(palavra));
         }else{
-            alert("opção inválida");
+            alert("opção errada");
             menu();
         }
     
