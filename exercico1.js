@@ -1,3 +1,4 @@
+//Codigo para encriptar
 function encriptar(palavra){
 
     palavra=palavra.split(""); //converter para array para fácil conversão
